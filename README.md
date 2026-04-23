@@ -29,7 +29,7 @@ Es el "corazón" del sistema. Su función es aplicar el conocimiento a los datos
 ## 📊 Diagrama de Bloques
 A continuación se presenta la representación gráfica de la interacción entre los módulos:
 
-![Diagrama de Arquitectura de Sistemas Expertos](./image_09363a.png)
+![Diagrama de Arquitectura de Sistemas Expertos](./Arquitectura.jpeg)
 
 ---
 
