@@ -26,13 +26,13 @@ Es el "corazón" del sistema. Su función es aplicar el conocimiento a los datos
 
 ---
 
-## 📊 Diagrama de Bloques
+## Diagrama de Bloques
 A continuación se presenta la representación gráfica de la interacción entre los módulos:
 
 ![Diagrama de Arquitectura de Sistemas Expertos](./Arquitectura.jpeg)
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 * **Leonel González** - *Estudiante de Ingeniería Mecatrónica*
 * **Institución:** CETI
